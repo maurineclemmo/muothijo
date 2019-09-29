@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oongiewae.kendraneipp.com/sitemap.xml
